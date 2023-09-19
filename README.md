@@ -5,7 +5,7 @@ style="width:49%" />
 </p>
 <h2 align="center">Technology Stack</h2>
 <p align="center">
-  <img style="height: 30px" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=go"/>
+  <img style="height: 30px" src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go"/>
   <img style="height: 30px" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
   <img style="height: 30px" src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js" />
 </p>
