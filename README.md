@@ -13,7 +13,7 @@ style="width:49%" />
   <img style="height: 30px" src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glows777&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyerun&layout=compact&theme=dracula" />
 </p>
 
 --- 
@@ -22,11 +22,4 @@ style="width:49%" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+it's+glows777+here" alt="Typing SVG" /></a>
 </p>
 
-- 👋 Hi, I’m glows777，a university student from China.
-- 👀 I’m interested & working with front end
-- 💗 I'm currently studying WebRTC and Nest.js, if you want to find someone to communicate or study together, here is my 
-contact information
-- 📫 You can reach me by emial glows778@gmail.com, and my blog is https://glows777.github.io/, nice to meet you.
-
-
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glows777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+- 👋 Hi, I’m Ernie，a university student from China.
